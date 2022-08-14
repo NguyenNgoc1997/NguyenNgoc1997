@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/vietngoc17"><img src="https://github.com/NguyenNgoc1997/NguyenNgoc97/blob/main/devcard.svg" align="right" width="350" alt="Nguyễn Viết Ngọc's Dev Card"/></a>
+<a href="https://app.daily.dev/vietngoc17"><img src="https://github.com/NguyenNgoc1997/NguyenNgoc1997/blob/main/devcard.svg" align="right" width="350" alt="Nguyễn Viết Ngọc's Dev Card"/></a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
