@@ -34,5 +34,4 @@ src="https://img.shields.io/github/followers/NguyenNgoc1997?logo=github&style=fo
 <a href="http://www.github.com/NguyenNgoc1997"><img align="right" src="https://github-readme-stats.vercel.app/api?username=NguyenNgoc1997&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="NguyenNgoc1997's GitHub stats" /></a>
 
 
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="100%"/>
